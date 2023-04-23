@@ -1,4 +1,5 @@
 # Note Taker
+[![Note Taker Image](./image/demo.png)](./image/demo.png)
 ![License Badge](https://shields.io/badge/license-MIT-blue)
 ## Table of Contents
 1. [Description](#description)
