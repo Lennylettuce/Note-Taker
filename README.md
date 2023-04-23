@@ -11,9 +11,9 @@
 ## Description
 This application uses Express.js to save and retrieve notes from a JSON file.
 ## Installation
-edit
+npm install
 ## Usage
-edit
+node server.js
 ## Contributing
 fork, code, pull request
 ## Tests
